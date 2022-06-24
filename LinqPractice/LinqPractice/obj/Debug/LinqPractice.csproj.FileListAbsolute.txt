@@ -1,8 +1,0 @@
-C:\DonateBlood\LinqPractice\LinqPractice\bin\Debug\LinqPractice.exe.config
-C:\DonateBlood\LinqPractice\LinqPractice\bin\Debug\LinqPractice.exe
-C:\DonateBlood\LinqPractice\LinqPractice\bin\Debug\LinqPractice.pdb
-C:\DonateBlood\LinqPractice\LinqPractice\obj\Debug\LinqPractice.csproj.AssemblyReference.cache
-C:\DonateBlood\LinqPractice\LinqPractice\obj\Debug\LinqPractice.csproj.SuggestedBindingRedirects.cache
-C:\DonateBlood\LinqPractice\LinqPractice\obj\Debug\LinqPractice.csproj.CoreCompileInputs.cache
-C:\DonateBlood\LinqPractice\LinqPractice\obj\Debug\LinqPractice.exe
-C:\DonateBlood\LinqPractice\LinqPractice\obj\Debug\LinqPractice.pdb
